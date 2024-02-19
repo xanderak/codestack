@@ -14,3 +14,4 @@ Several options of passing parameters to SOLIDWORKS VBA macros are explored and 
 
 * [Via Clipboard](via-clipboard)
 * [Via SWB Macro](via-swb-macro)
+* [Via Options Folder String](via-options-folder-string)
